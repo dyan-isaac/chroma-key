@@ -34,16 +34,16 @@ python ChromaKey.py -XYZ|-Lab|-YCrCb|-HSB imagefile
 
 Chroma Keying
 ```
-python chromaKey.py scenicImageFile greenScreenImageFile
+python ChromaKey.py scenicImageFile greenScreenImageFile
 ```
 
 Example Commands
 Color Space Transformation
 ```
-python chromaKey.py -Lab input_image.jpg
+python ChromaKey.py -Lab input_image.jpg
 ```
 
 Chroma Keying
 ```
-python chromaKey.py scenic.jpg green_screen.jpg
+python ChromaKey.py scenic.jpg green_screen.jpg
 ```
