@@ -1,4 +1,5 @@
 # ChromaKey Image Processing
+NOTE: Please cite this GIT repo in case of usage/reference. Thanks :)
 This Python script, ChromaKey.py, provides tools for processing images using chroma key techniques, 
 including finding the centroid of an object in an image and resizing images based on specific constraints. 
 The script is designed to work with image files, leveraging OpenCV for image processing tasks.
